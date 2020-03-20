@@ -1,0 +1,98 @@
+.lyra_review .small {
+    font-size: 10px;
+}
+
+.lyra_review {
+    border: 1px solid black;
+    font-size: 13px !important;
+    margin-top: 5px;
+    min-width: 380px;
+}
+
+.lyra_review td.amount {
+    text-align: right;
+    font-weight: bold;
+}
+
+.lyra_review thead tr {
+    border-bottom: 1px solid black;
+}
+
+.lyra_review td, .lyra_review th {
+    padding: 3px 6px;
+}
+
+#lyra_iframe {
+    position: relative;
+    width: 100%;
+    min-height: 440px;
+    border: 0 none;
+}
+
+#lyra_cancel_iframe a {
+    font-size: 12px;
+    text-decoration: none;
+    border: 0;
+    margin-left: 15px;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    display: inline;
+}
+
+.lyra_card {
+    display: inline !important;
+}
+
+.lyra_card img, .lyra_card span {
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.lyra_card img {
+    max-width: 90px;
+    max-height: 30px;
+}
+
+.lyra_card span {
+    height: 30px;
+}
+
+.lyra_card_click {
+    margin-right: 20px;
+}
+
+.lyra_card_click input { /* hide radio */
+    display: none !important;
+}
+
+.lyra_card_click img {
+    cursor: pointer;
+    border: 2px solid transparent;
+    opacity: 0.6;
+    max-height: 40px;
+    max-width: 100px;
+}
+
+.lyra_card_click input:checked + img {
+    border: 2px solid black;
+    opacity: 1;
+}
+
+.lyra_card_click img:HOVER, .lyra_card_click img.hover {
+    opacity: 1;
+}
+
+.payment-option label img[src*="lyra"] {
+    max-width: 90px;
+    margin-right: 12px;
+    max-height: 30px;
+    float: left;
+    margin-top: -5px;
+}
+
+button.kr-popin-button {
+    display: none !important;
+    width: 0;
+    height: 0;
+}
