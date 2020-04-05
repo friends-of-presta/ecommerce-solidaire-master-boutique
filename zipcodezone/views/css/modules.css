@@ -1,0 +1,24 @@
+a.addons-style-module-link {
+	color: #333;
+}
+
+a.addons-style-module-link:hover {
+	text-decoration: none;
+	color: #333;
+}
+
+.addons-style-module {
+	min-height: 170px;
+}
+
+#satisfaction:before {
+	top: 10px;
+}
+
+#satisfaction a {
+	margin-left: 10px;
+}
+
+#satisfaction a i {
+	font-size: 16px;
+}

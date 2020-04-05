@@ -1,0 +1,1 @@
+<div class="delivery_date" style="padding: 10px;margin-top: 10px;margin-bottom: 10px;border: 1px solid #D3D3D3;background: #FDFDFD;">{$text|escape:'htmlall':'UTF-8'}</div>

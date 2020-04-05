@@ -1,0 +1,26 @@
+iframe {
+    width: 100%;
+    min-height: 800px;
+    border: none;
+}
+
+#laposte {
+    background: #ffc928;
+    border-left: solid 3px #054090;
+    color: #054090;
+    position: relative;
+    padding-left: 115px;
+}
+
+#laposte img {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#laposte a {
+    color: #054090;
+    text-decoration: underline;
+    margin-left: 5px;
+}

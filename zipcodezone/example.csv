@@ -1,0 +1,4 @@
+Country (id);Zone (id);Zip code (min);Zip code (max)
+1;1;20000;30000
+1;2;12345;12345
+17;1;ABCDEF;ABCDEF

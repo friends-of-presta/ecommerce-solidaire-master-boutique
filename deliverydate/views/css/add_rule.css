@@ -1,0 +1,9 @@
+select[name=minutes] {
+	width: 75px;
+	display: inline-block;
+}
+
+select[name=hours] {
+	width: 60px;
+	display: inline-block;
+}

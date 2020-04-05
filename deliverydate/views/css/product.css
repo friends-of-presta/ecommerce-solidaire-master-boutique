@@ -1,0 +1,7 @@
+.hidden {
+	display: none !important;
+}
+
+.dd_available, .dd_oot {
+	margin: 20px 0 10px 0;
+}
