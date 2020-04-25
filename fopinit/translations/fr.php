@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{fopinit}prestashop>fopinit_f0d8eb721f38ff2729b55bed96d4c3fe'] = 'Fop Intialisation du shop';
+$_MODULE['<{fopinit}prestashop>fopinit_9eaa31e7c99756396f9aeb27d642cd6e'] = 'Une façon simple de lancer votre boutique Ecommerce Solidaire';
+$_MODULE['<{fopinit}prestashop>fopinit_f4f70727dc34561dfde1a3c529b6205c'] = 'Paramètres';
+$_MODULE['<{fopinit}prestashop>fopinit_53e9201797ee7c4f4875ef5a5c89aa89'] = 'Valeurs FOP par défaut';
+$_MODULE['<{fopinit}prestashop>fopinit_4dd0c4b6ef0ba713de57ab1a9854a053'] = 'Définir les valeurs par défaut automatiquement';
+$_MODULE['<{fopinit}prestashop>fopinit_8ed2af7eec26013a1925afd55eda005b'] = 'Mise à jour des titres widget, des textes RGPD, désactivation des marques etc...';
+$_MODULE['<{fopinit}prestashop>fopinit_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Activer';
+$_MODULE['<{fopinit}prestashop>fopinit_b9f5c797ebbf55adccdd8539a65a0241'] = 'Désactiver';
+$_MODULE['<{fopinit}prestashop>fopinit_830ef9b294815ea81bde7724cb0bb3f8'] = 'Contact boutique & création magasin';
+$_MODULE['<{fopinit}prestashop>fopinit_cffa70587159989d91e6ce586ea65c14'] = 'Entrez un email valide';
+$_MODULE['<{fopinit}prestashop>fopinit_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'Email';
+$_MODULE['<{fopinit}prestashop>fopinit_e93c33bd1341ab74195430daeb63db13'] = 'Nom de la boutique';
+$_MODULE['<{fopinit}prestashop>fopinit_d72122ed996b5a791b93ce4a7c616aea'] = 'Détails (SIREN...)';
+$_MODULE['<{fopinit}prestashop>fopinit_956205f0d2c8352f3d92aa3438f1b646'] = 'Adresse 1';
+$_MODULE['<{fopinit}prestashop>fopinit_2e21e83375deefc4a3620ab667157e27'] = 'Adresse 2';
+$_MODULE['<{fopinit}prestashop>fopinit_8bcdc441379cbf584638b0589a3f9adb'] = 'Code postal';
+$_MODULE['<{fopinit}prestashop>fopinit_4ed5d2eaed1a1fadcc41ad1d58ed603e'] = 'Ville';
+$_MODULE['<{fopinit}prestashop>fopinit_bcc254b55c4a1babdf1dcb82c207506b'] = 'Téléphone';
+$_MODULE['<{fopinit}prestashop>fopinit_2f79bae0628c59ca1964547394e02938'] = 'SEO page index';
+$_MODULE['<{fopinit}prestashop>fopinit_9e11e4b371570340ca07913bc4783a7a'] = 'Meta title';
+$_MODULE['<{fopinit}prestashop>fopinit_3f64b2beede1082fd32ddb0bf11a641f'] = 'Meta description';
+$_MODULE['<{fopinit}prestashop>fopinit_3ce446e5cb3c779f621bb5ee76e666c2'] = 'Réseaux sociaux';
+$_MODULE['<{fopinit}prestashop>fopinit_c98b16a9893987768b7599c6961efe65'] = 'Paramètres d\'upload';
+$_MODULE['<{fopinit}prestashop>fopinit_83fc5372400ff3a2748fe3ed7c71f0d2'] = 'Taille d\'image max en Mo';
+$_MODULE['<{fopinit}prestashop>fopinit_c9cc8cce247e49bae79f15173ce97354'] = 'Enregistrer';
+$_MODULE['<{fopinit}prestashop>fopinit_53498cba651017fcfb0a3c8178fdf04f'] = 'Erreur durant le paramètrage des valeurs Fop';
+$_MODULE['<{fopinit}prestashop>fopinit_1edd65da681072e40f7a32549d953fca'] = 'Erreur durant le paramètrage des données SEO de la page index';
